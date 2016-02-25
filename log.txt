@@ -1,0 +1,376 @@
+[19:43:09] - INFO - [1 z 125] http://zalamo.com/resizer.php?file=10000685&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:09] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:10] - INFO - 200
+[19:43:11] - INFO - [2 z 125] http://zalamo.com/resizer.php?file=17149622&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:11] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:12] - INFO - 200
+[19:43:13] - INFO - [3 z 125] http://zalamo.com/resizer.php?file=17149596&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:13] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:13] - INFO - 200
+[19:43:14] - INFO - [4 z 125] http://zalamo.com/resizer.php?file=17149649&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:14] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:15] - INFO - 200
+[19:43:16] - INFO - [5 z 125] http://zalamo.com/resizer.php?file=17149699&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:16] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:17] - INFO - 200
+[19:43:18] - INFO - [6 z 125] http://zalamo.com/resizer.php?file=17149814&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:18] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:19] - INFO - 200
+[19:43:20] - INFO - [7 z 125] http://zalamo.com/resizer.php?file=17149806&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:20] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:20] - INFO - 200
+[19:43:21] - INFO - [8 z 125] http://zalamo.com/resizer.php?file=17149831&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:21] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:22] - INFO - 200
+[19:43:23] - INFO - [9 z 125] http://zalamo.com/resizer.php?file=17149843&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:23] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:29] - INFO - 200
+[19:43:30] - INFO - [10 z 125] http://zalamo.com/resizer.php?file=17149866&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:30] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:31] - INFO - 200
+[19:43:32] - INFO - [11 z 125] http://zalamo.com/resizer.php?file=17149871&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:32] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:32] - INFO - 200
+[19:43:33] - INFO - [12 z 125] http://zalamo.com/resizer.php?file=17149906&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:33] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:34] - INFO - 200
+[19:43:35] - INFO - [13 z 125] http://zalamo.com/resizer.php?file=17149890&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:35] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:35] - INFO - 200
+[19:43:36] - INFO - [14 z 125] http://zalamo.com/resizer.php?file=17149921&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:36] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:37] - INFO - 200
+[19:43:38] - INFO - [15 z 125] http://zalamo.com/resizer.php?file=17149941&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:38] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:39] - INFO - 200
+[19:43:40] - INFO - [16 z 125] http://zalamo.com/resizer.php?file=17149959&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:40] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:41] - INFO - 200
+[19:43:42] - INFO - [17 z 125] http://zalamo.com/resizer.php?file=17149976&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:49] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:50] - INFO - 200
+[19:43:51] - INFO - [18 z 125] http://zalamo.com/resizer.php?file=17149990&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:51] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:52] - INFO - 200
+[19:43:53] - INFO - [19 z 125] http://zalamo.com/resizer.php?file=17149987&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:53] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:54] - INFO - 200
+[19:43:55] - INFO - [20 z 125] http://zalamo.com/resizer.php?file=17150012&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:55] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:55] - INFO - 200
+[19:43:56] - INFO - [21 z 125] http://zalamo.com/resizer.php?file=17150008&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:56] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:57] - INFO - 200
+[19:43:58] - INFO - [22 z 125] http://zalamo.com/resizer.php?file=17150026&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:43:58] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:43:59] - INFO - 200
+[19:44:00] - INFO - [23 z 125] http://zalamo.com/resizer.php?file=17150025&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:00] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:02] - INFO - 200
+[19:44:03] - INFO - [24 z 125] http://zalamo.com/resizer.php?file=17150040&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:03] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:04] - INFO - 200
+[19:44:05] - INFO - [25 z 125] http://zalamo.com/resizer.php?file=17150034&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:05] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:05] - INFO - 200
+[19:44:06] - INFO - [26 z 125] http://zalamo.com/resizer.php?file=17150053&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:06] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:07] - INFO - 200
+[19:44:08] - INFO - [27 z 125] http://zalamo.com/resizer.php?file=17150054&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:08] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:09] - INFO - 200
+[19:44:10] - INFO - [28 z 125] http://zalamo.com/resizer.php?file=17150063&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:10] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:11] - INFO - 200
+[19:44:12] - INFO - [29 z 125] http://zalamo.com/resizer.php?file=17150058&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:12] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:13] - INFO - 200
+[19:44:14] - INFO - [30 z 125] http://zalamo.com/resizer.php?file=17150074&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:14] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:15] - INFO - 200
+[19:44:16] - INFO - [31 z 125] http://zalamo.com/resizer.php?file=17150075&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:16] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:16] - INFO - 200
+[19:44:17] - INFO - [32 z 125] http://zalamo.com/resizer.php?file=17150090&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:17] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:18] - INFO - 200
+[19:44:19] - INFO - [33 z 125] http://zalamo.com/resizer.php?file=17150084&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:19] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:20] - INFO - 200
+[19:44:21] - INFO - [34 z 125] http://zalamo.com/resizer.php?file=17150099&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:21] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:22] - INFO - 200
+[19:44:23] - INFO - [35 z 125] http://zalamo.com/resizer.php?file=17150101&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:23] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:24] - INFO - 200
+[19:44:25] - INFO - [36 z 125] http://zalamo.com/resizer.php?file=17150106&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:25] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:25] - INFO - 200
+[19:44:28] - INFO - [37 z 125] http://zalamo.com/resizer.php?file=17150105&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:28] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:29] - INFO - 200
+[19:44:30] - INFO - [38 z 125] http://zalamo.com/resizer.php?file=17150107&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:30] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:30] - INFO - 200
+[19:44:31] - INFO - [39 z 125] http://zalamo.com/resizer.php?file=17150108&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:31] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:32] - INFO - 200
+[19:44:33] - INFO - [40 z 125] http://zalamo.com/resizer.php?file=17150146&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:33] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:34] - INFO - 200
+[19:44:35] - INFO - [41 z 125] http://zalamo.com/resizer.php?file=17150138&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:35] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:36] - INFO - 200
+[19:44:37] - INFO - [42 z 125] http://zalamo.com/resizer.php?file=17150190&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:37] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:37] - INFO - 200
+[19:44:38] - INFO - [43 z 125] http://zalamo.com/resizer.php?file=17150189&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:38] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:39] - INFO - 200
+[19:44:40] - INFO - [44 z 125] http://zalamo.com/resizer.php?file=17150198&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:40] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:41] - INFO - 200
+[19:44:42] - INFO - [45 z 125] http://zalamo.com/resizer.php?file=17150194&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:42] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:43] - INFO - 200
+[19:44:44] - INFO - [46 z 125] http://zalamo.com/resizer.php?file=17150203&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:44] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:45] - INFO - 200
+[19:44:46] - INFO - [47 z 125] http://zalamo.com/resizer.php?file=17150202&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:46] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:46] - INFO - 200
+[19:44:47] - INFO - [48 z 125] http://zalamo.com/resizer.php?file=17150249&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:47] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:48] - INFO - 200
+[19:44:49] - INFO - [49 z 125] http://zalamo.com/resizer.php?file=17150232&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:49] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:50] - INFO - 200
+[19:44:51] - INFO - [50 z 125] http://zalamo.com/resizer.php?file=17150291&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:51] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:52] - INFO - 200
+[19:44:53] - INFO - [51 z 125] http://zalamo.com/resizer.php?file=17150307&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:53] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:54] - INFO - 200
+[19:44:55] - INFO - [52 z 125] http://zalamo.com/resizer.php?file=17150348&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:55] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:56] - INFO - 200
+[19:44:57] - INFO - [53 z 125] http://zalamo.com/resizer.php?file=17150341&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:57] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:44:57] - INFO - 200
+[19:44:58] - INFO - [54 z 125] http://zalamo.com/resizer.php?file=17150398&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:44:58] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:00] - INFO - 200
+[19:45:01] - INFO - [55 z 125] http://zalamo.com/resizer.php?file=17150388&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:01] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:02] - INFO - 200
+[19:45:03] - INFO - [56 z 125] http://zalamo.com/resizer.php?file=17150448&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:03] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:04] - INFO - 200
+[19:45:05] - INFO - [57 z 125] http://zalamo.com/resizer.php?file=17150440&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:05] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:06] - INFO - 200
+[19:45:07] - INFO - [58 z 125] http://zalamo.com/resizer.php?file=17150493&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:07] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:08] - INFO - 200
+[19:45:09] - INFO - [59 z 125] http://zalamo.com/resizer.php?file=17150477&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:09] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:09] - INFO - 200
+[19:45:10] - INFO - [60 z 125] http://zalamo.com/resizer.php?file=17150575&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:11] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:12] - INFO - 200
+[19:45:13] - INFO - [61 z 125] http://zalamo.com/resizer.php?file=17150572&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:13] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:13] - INFO - 200
+[19:45:14] - INFO - [62 z 125] http://zalamo.com/resizer.php?file=17150622&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:14] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:15] - INFO - 200
+[19:45:16] - INFO - [63 z 125] http://zalamo.com/resizer.php?file=17150764&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:16] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:17] - INFO - 200
+[19:45:18] - INFO - [64 z 125] http://zalamo.com/resizer.php?file=17183177&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:18] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:19] - INFO - 200
+[19:45:20] - INFO - [65 z 125] http://zalamo.com/resizer.php?file=17150610&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:20] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:21] - INFO - 200
+[19:45:22] - INFO - [66 z 125] http://zalamo.com/resizer.php?file=17150815&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:22] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:22] - INFO - 200
+[19:45:23] - INFO - [67 z 125] http://zalamo.com/resizer.php?file=17183209&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:23] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:24] - INFO - 200
+[19:45:25] - INFO - [68 z 125] http://zalamo.com/resizer.php?file=17183235&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:25] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:25] - INFO - 200
+[19:45:26] - INFO - [69 z 125] http://zalamo.com/resizer.php?file=17183378&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:26] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:28] - INFO - 200
+[19:45:29] - INFO - [70 z 125] http://zalamo.com/resizer.php?file=17183374&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:29] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:30] - INFO - 200
+[19:45:31] - INFO - [71 z 125] http://zalamo.com/resizer.php?file=17183423&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:31] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:32] - INFO - 200
+[19:45:33] - INFO - [72 z 125] http://zalamo.com/resizer.php?file=17183408&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:33] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:34] - INFO - 200
+[19:45:35] - INFO - [73 z 125] http://zalamo.com/resizer.php?file=17183434&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:35] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:35] - INFO - 200
+[19:45:36] - INFO - [74 z 125] http://zalamo.com/resizer.php?file=17183456&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:36] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:37] - INFO - 200
+[19:45:38] - INFO - [75 z 125] http://zalamo.com/resizer.php?file=17183464&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:38] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:39] - INFO - 200
+[19:45:40] - INFO - [76 z 125] http://zalamo.com/resizer.php?file=17183596&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:40] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:41] - INFO - 200
+[19:45:42] - INFO - [77 z 125] http://zalamo.com/resizer.php?file=17183602&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:42] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:43] - INFO - 200
+[19:45:44] - INFO - [78 z 125] http://zalamo.com/resizer.php?file=17183921&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:44] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:46] - INFO - 200
+[19:45:47] - INFO - [79 z 125] http://zalamo.com/resizer.php?file=17183922&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:47] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:48] - INFO - 200
+[19:45:49] - INFO - [80 z 125] http://zalamo.com/resizer.php?file=17183956&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:49] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:50] - INFO - 200
+[19:45:51] - INFO - [81 z 125] http://zalamo.com/resizer.php?file=17183946&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:51] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:51] - INFO - 200
+[19:45:52] - INFO - [82 z 125] http://zalamo.com/resizer.php?file=17183965&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:52] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:53] - INFO - 200
+[19:45:54] - INFO - [83 z 125] http://zalamo.com/resizer.php?file=17183989&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:54] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:55] - INFO - 200
+[19:45:56] - INFO - [84 z 125] http://zalamo.com/resizer.php?file=17184008&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:56] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:45:57] - INFO - 200
+[19:45:58] - INFO - [85 z 125] http://zalamo.com/resizer.php?file=17184011&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:45:58] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:00] - INFO - 200
+[19:46:01] - INFO - [86 z 125] http://zalamo.com/resizer.php?file=17185505&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:01] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:02] - INFO - 200
+[19:46:03] - INFO - [87 z 125] http://zalamo.com/resizer.php?file=17185506&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:03] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:04] - INFO - 200
+[19:46:05] - INFO - [88 z 125] http://zalamo.com/resizer.php?file=17185525&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:05] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:06] - INFO - 200
+[19:46:07] - INFO - [89 z 125] http://zalamo.com/resizer.php?file=17185523&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:07] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:08] - INFO - 200
+[19:46:09] - INFO - [90 z 125] http://zalamo.com/resizer.php?file=17185539&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:11] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:12] - INFO - 200
+[19:46:13] - INFO - [91 z 125] http://zalamo.com/resizer.php?file=17185542&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:13] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:13] - INFO - 200
+[19:46:14] - INFO - [92 z 125] http://zalamo.com/resizer.php?file=17185547&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:19] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:20] - INFO - 200
+[19:46:21] - INFO - [93 z 125] http://zalamo.com/resizer.php?file=17185553&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:21] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:21] - INFO - 200
+[19:46:22] - INFO - [94 z 125] http://zalamo.com/resizer.php?file=17190192&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:23] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:23] - INFO - 200
+[19:46:24] - INFO - [95 z 125] http://zalamo.com/resizer.php?file=17190194&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:24] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:24] - INFO - 200
+[19:46:25] - INFO - [96 z 125] http://zalamo.com/resizer.php?file=17190196&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:25] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:25] - INFO - 200
+[19:46:26] - INFO - [97 z 125] http://zalamo.com/resizer.php?file=17190195&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:26] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:26] - INFO - 200
+[19:46:27] - INFO - [98 z 125] http://zalamo.com/resizer.php?file=17190197&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:28] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:28] - INFO - 200
+[19:46:29] - INFO - [99 z 125] http://zalamo.com/resizer.php?file=17190198&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:29] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:29] - INFO - 200
+[19:46:30] - INFO - [100 z 125] http://zalamo.com/resizer.php?file=17190199&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:30] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:30] - INFO - 200
+[19:46:31] - INFO - [101 z 125] http://zalamo.com/resizer.php?file=17190200&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:31] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:31] - INFO - 200
+[19:46:32] - INFO - [102 z 125] http://zalamo.com/resizer.php?file=17190203&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:32] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:33] - INFO - 200
+[19:46:34] - INFO - [103 z 125] http://zalamo.com/resizer.php?file=17190204&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:34] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:34] - INFO - 200
+[19:46:35] - INFO - [104 z 125] http://zalamo.com/resizer.php?file=17190205&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:36] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:36] - INFO - 200
+[19:46:37] - INFO - [105 z 125] http://zalamo.com/resizer.php?file=17190206&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:37] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:37] - INFO - 200
+[19:46:38] - INFO - [106 z 125] http://zalamo.com/resizer.php?file=17190207&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:38] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:39] - INFO - 200
+[19:46:40] - INFO - [107 z 125] http://zalamo.com/resizer.php?file=17190208&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:40] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:40] - INFO - 200
+[19:46:41] - INFO - [108 z 125] http://zalamo.com/resizer.php?file=17190210&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:41] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:41] - INFO - 200
+[19:46:42] - INFO - [109 z 125] http://zalamo.com/resizer.php?file=17190209&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:42] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:43] - INFO - 200
+[19:46:44] - INFO - [110 z 125] http://zalamo.com/resizer.php?file=17190213&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:44] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:44] - INFO - 200
+[19:46:45] - INFO - [111 z 125] http://zalamo.com/resizer.php?file=17190214&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:45] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:45] - INFO - 200
+[19:46:46] - INFO - [112 z 125] http://zalamo.com/resizer.php?file=17190215&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:46] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:46] - INFO - 200
+[19:46:47] - INFO - [113 z 125] http://zalamo.com/resizer.php?file=17190216&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:47] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:48] - INFO - 200
+[19:46:49] - INFO - [114 z 125] http://zalamo.com/resizer.php?file=17190218&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:49] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:49] - INFO - 200
+[19:46:50] - INFO - [115 z 125] http://zalamo.com/resizer.php?file=17190217&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:50] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:50] - INFO - 200
+[19:46:51] - INFO - [116 z 125] http://zalamo.com/resizer.php?file=17190219&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:51] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:51] - INFO - 200
+[19:46:52] - INFO - [117 z 125] http://zalamo.com/resizer.php?file=17190222&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:52] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:53] - INFO - 200
+[19:46:54] - INFO - [118 z 125] http://zalamo.com/resizer.php?file=17190223&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:54] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:54] - INFO - 200
+[19:46:55] - INFO - [119 z 125] http://zalamo.com/resizer.php?file=17190224&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:55] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:55] - INFO - 200
+[19:46:56] - INFO - [120 z 125] http://zalamo.com/resizer.php?file=17190225&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:56] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:56] - INFO - 200
+[19:46:57] - INFO - [121 z 125] http://zalamo.com/resizer.php?file=17190226&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:57] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:58] - INFO - 200
+[19:46:59] - INFO - [122 z 125] http://zalamo.com/resizer.php?file=17190227&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:46:59] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:46:59] - INFO - 200
+[19:47:00] - INFO - [123 z 125] http://zalamo.com/resizer.php?file=17190228&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:47:00] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:47:01] - INFO - 200
+[19:47:02] - INFO - [124 z 125] http://zalamo.com/resizer.php?file=17190229&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:47:02] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:47:02] - INFO - 200
+[19:47:03] - INFO - [125 z 125] http://zalamo.com/resizer.php?file=17190230&size=5000x5000&nocrop=1&module=client&controller=session&action=edit&single_session_id=10019218
+[19:47:03] - INFO - Starting new HTTP connection (1): zalamo.com
+[19:47:03] - INFO - 200
+[19:47:04] - INFO - KONIEC
